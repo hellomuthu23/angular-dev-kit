@@ -13,4 +13,4 @@ Refer VSCode Extension documentation for more information on how to add/remove e
 2. Update the version in package.json
 3. Run `npm run pack` to generate the new extension pack. This will generate the new package ex: `angular-dev-kit-0.0.x.vsix`
 4. Update changelog
-5. Publish the new package in git repo.
+5. Create a PR
