@@ -2,7 +2,7 @@
   "name": "angular-dev-kit",
   "displayName": "Angular Dev kit",
   "description": "VSCode extension pack for Angular developers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -12,6 +12,18 @@
   "publisher": "hellomuthu23",
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "Angular",
+    "Angular 2",
+    "Angular 8",
+    "TypeScript",
+    "HTML",
+    "Angular Test Explorer",
+    "Angular Extensions",
+    "Angular Dev kit",
+    "Angular Productivity",
+    "Angular Testing"
   ],
   "repository": {
     "url": "https://github.com/hellomuthu23/angular-dev-kit"
